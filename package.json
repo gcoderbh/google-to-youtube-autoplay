@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bee-queue": "^1.4.0",
+    "puppeteer": "^15.3.2",
+    "puppeteer-autoscroll-down": "^1.1.1",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-auto-scroll": "^0.2.2",
+    "puppeteer-extra-plugin-click-and-wait": "^2.3.2",
+    "puppeteer-extra-plugin-proxy2": "^1.0.0",
+    "puppeteer-extra-plugin-stealth": "^2.11.0"
+  }
+}
